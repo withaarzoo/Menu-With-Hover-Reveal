@@ -6,7 +6,7 @@ This is a simple menu with hover reveal effects using HTML and CSS. When you hov
 
 To use this menu in your project, follow these steps:
 
-1. Download the HTML and CSS files from the [dgicode.store](https://dgicode.store) website .
+1. Download the HTML and CSS files from the [dgicode.store](https://dgicode.store/product/menu-with-hover-reveal-using-html-and-css/) website .
 
 2. Include the HTML and CSS files in your project's directory.
 
