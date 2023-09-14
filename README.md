@@ -1,6 +1,6 @@
 # Menu With Hover Reveal
 
-This is a simple menu with hover reveal effects using HTML and CSS. When you hover over the menu items, they expand to reveal additional information. Each menu item consists of an icon and a title.
+This is a simple menu with hover reveal effects using HTML and CSS. When you hover over the menu items, they expand to reveal additional information. Each menu item consists of an icon and a title .
 
 ## How to Use
 
